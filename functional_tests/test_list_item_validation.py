@@ -1,4 +1,7 @@
+from selenium.webdriver.common.keys import Keys
 from .base import FunctionalTest
+import time
+
 
 class ItemValidationTest(FunctionalTest):
 
